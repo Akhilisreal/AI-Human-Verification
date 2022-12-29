@@ -1,0 +1,29 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 50%;
+    margin-top: 5px;
+    box-shadow: 2px 2px 1px black;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+button {
+    box-shadow: 2px 2px 1px black;
+}
+
+canvas {
+    border-style: solid;
+    border-width: 3px;
+    border-color: white;
+    margin-top: 70px;
+    box-shadow: 2px 2px 1px black;
+}
